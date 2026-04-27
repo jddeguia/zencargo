@@ -1,0 +1,671 @@
+cargo_id,mode_of_transport,trade_lane,requested_at,actual_collection_at,actual_delivery_at,shipment_status
+qkQCSwfeg4PSbSM6LFA8WQ==,Air,GB → US,,,,active
+iYoJ+hzhLkUG5ZSSbOMd9w==,Air,AU → GB,,,,active
+m3bV6znMht/Su4273cHblQ==,Road,GB → GB,,,,active
+Cic+f9C7coTCmW72bMqvAw==,Road,PT → GB,2025-10-30 17:22:03,2035-11-20 10:33:30,,active
+9PJthGwIZJjX3TCRsjSlHg==,Road,GB → GB,2025-10-30 08:11:11,2035-11-03 00:00:00,,active
+#ERROR!,Road,TR → GB,2025-10-30 13:04:51,2035-10-30 00:00:00,,active
+RK5C5KsO0YzDflrvN+5xHQ==,Road,TR → GB,2025-10-30 13:07:56,2035-10-30 00:00:00,,active
+lYv4Z+NM8znAlk2I8rjLOA==,Road,TR → GB,2025-10-30 13:19:04,2035-10-28 00:00:00,,active
+N+riFKtTNCm/DKaJZt/Ycg==,Road,TR → GB,2025-10-30 13:51:39,2035-10-30 00:00:00,,active
+J71kxhAVb/lnIOuKIZlaNg==,Road,FR → GB,2025-10-30 14:41:47,2035-11-10 00:00:00,,active
+HA6SrzYkAFxbadSEn68ktA==,Road,FR → GB,2025-10-30 14:46:21,2035-11-10 00:00:00,,active
+5SmVdiLAeSAhLCl+UeFEPA==,Road,GB → CH,2025-10-30 06:36:17,2035-11-17 00:00:00,,active
+8ko+iJGDaz90c+yzBeccGw==,Air,US → NL,2025-11-18 17:03:00,2025-11-20 00:00:00,,active
+Al9GPOI70kOhATG35mmTqA==,Air,US → NL,2025-11-18 17:03:00,2025-11-20 00:00:00,,active
+RHzzR3iK3nSrO7nLbnZEjQ==,Air,US → NL,2025-11-18 17:03:00,2025-11-20 00:00:00,,active
+q1LlBLwTMA6/CtQjSD4CgQ==,Air,US → NL,2025-11-18 17:03:00,2025-11-20 00:00:00,,active
+3PXdFPwE5dP/WFzHAsOO0w==,Air,US → NL,2025-11-18 17:03:00,2025-11-20 00:00:00,,active
+FFgSaD1kemehiV0Eqor7pQ==,Air,US → NL,2025-11-18 17:03:00,2025-11-20 00:00:00,,active
+Z3up9QTKcH9F7zacnbM8Bg==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+Oxtnm7A1jdI1StOl549g1Q==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+oAoMtd09osQLN0dyhh+HyQ==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+XnuHjut+R1Wurw5I+jlPJg==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+ovebWG9JDv/W2A5xJsz6XA==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+LXhSqJWMbSgNKP1ryrHgew==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+Ue4DS/rx3UZxOqs7fCDppg==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+qamJoOsUB5IbIDdxFKik+w==,Air,HK → GB,2025-11-14 10:33:16,2025-11-20 00:00:00,,active
+7QeVByfsKP3kcmZAqyWq0w==,Road,GB → IT,2025-11-15 07:52:22,2025-11-22 09:12:31,,active
+7cm08OMjdBs0YVSPfNf8uA==,Air,JP → GB,2025-11-15 10:18:57,2025-11-22 00:00:00,,active
+9/1qEE6qqIyTyeRA2r3Nqg==,Air,JP → GB,2025-11-15 10:18:57,2025-11-22 00:00:00,,active
+XyXMn4Yjht8z+TDpI8OqEw==,Road,GB → PL,2025-11-04 11:31:22,2025-11-22 10:28:27,,active
+R2DZUN2X5wg7Ot15q1rKMQ==,Road,ES → GB,2025-11-12 13:56:34,2025-11-15 00:00:00,,active
+GZ9kRbenY/1gam0avHkeOw==,Road,ES → GB,2025-11-18 13:36:17,2025-11-21 15:53:50,,active
+n49WfuwsLhONxCCC7T438g==,Road,ES → GB,2025-11-18 14:03:09,2025-11-21 11:09:12,,active
+1n/TKEXfk56gGP8eJSIc3g==,Road,BE → GB,2025-11-13 09:40:15,2025-11-20 00:00:00,,active
+cjWo6xYwf4Nkx3sycr5d5g==,Road,PL → ES,2025-11-15 11:19:28,2025-11-20 21:45:26,,active
+8gDUXuiha8K15q+zuxw4BA==,Road,PL → ES,2025-11-15 11:30:44,2025-11-21 20:40:22,,active
+5oYO7ewPc7n2Sxmbywut9A==,Road,PL → ES,2025-11-15 11:47:04,2025-11-22 12:11:55,,active
+8WX8pl4nHNR5Nw2ZBIp4pw==,Road,PL → NL,2025-11-15 11:57:19,2025-11-21 17:54:41,,active
+vq054QtJy6pc69qbJoBITA==,Road,PL → IT,2025-11-15 12:12:13,2025-11-21 15:45:00,,active
+WeVLtdqpx7x38OvjFk6B5Q==,Road,PL → IE,2025-11-15 12:48:00,2025-11-19 17:00:00,,active
+LhIZ0JDJm+r4UwLSD08lhA==,Road,PL → IE,2025-11-15 12:55:21,2025-11-21 17:15:00,,active
+Vwl2mWJYzPY1r5/Vg1RJhA==,Road,PL → FR,2025-11-15 13:15:43,2025-11-21 13:19:50,,active
+#ERROR!,Road,GB → PL,2025-11-19 15:00:24,2025-11-22 09:16:11,,active
+qQsYNwN7E+N/IXx20IpHHg==,Road,TR → GB,2025-11-01 11:46:48,2025-11-01 00:00:00,,active
+anEgIdOH9ak9hSe+pVY3IQ==,Road,TR → GB,2025-11-01 11:48:10,2025-11-01 00:00:00,,active
+1kx6MQMkk+WHII7ken/TyA==,Road,TR → GB,2025-11-06 08:11:58,2025-11-05 00:00:00,,active
+tf4AQEzTMSl52olg/7/KOQ==,Road,TR → GB,2025-11-18 08:48:24,2025-11-21 10:48:46,,active
+xW0T/ZNbOye0ennHyJLrkA==,Ocean,IT → US,2025-11-07 09:45:39,2025-11-18 00:00:00,,active
+XIeGE+Rl89tOXaNIuQd3/Q==,Air,GB → US,2025-11-13 09:23:46,2025-11-18 00:00:00,,active
+pLZc++VztrZKBIYihFk4iQ==,Air,GB → US,2025-11-19 16:27:37,2025-11-21 00:00:00,,active
+FC+b3NX5dELQaDSt7ZsJOg==,Air,GB → US,2025-11-19 16:27:37,2025-11-21 00:00:00,,active
+Gs6nOjixEorGma+E5/GBNA==,Road,ES → GB,2025-11-13 09:10:01,2025-11-20 13:43:41,,active
+qOgRplEN2WbsteqLqOCNtQ==,Road,ES → GB,2025-11-13 09:10:27,2025-11-20 17:40:45,,active
+cb5ADHm0cKKogfKfFL7wsg==,Road,ES → GB,2025-11-13 09:10:57,2025-11-22 09:19:01,,active
+DUn4g+UbUf5dXpUNrz4xew==,Air,US → GB,2025-11-13 20:30:19,2025-11-15 00:00:00,,active
+VwxiAa5bzb8P2sBWjEjo9w==,Air,US → GB,2025-11-15 17:24:51,2025-11-18 00:00:00,,active
+e1PsfYORSsufG7/KDdEZiw==,Air,US → GB,2025-11-15 23:31:59,2025-11-18 00:00:00,,active
+2L0QiqyhiXJVPYvOx/POvw==,Air,US → GB,2025-11-15 23:34:02,2025-11-18 00:00:00,,active
+blzQXfGkLFk5FCj0OT644A==,Road,GB → GB,2025-11-18 11:54:00,2025-11-22 00:00:00,,active
+mLGZnvjBUuMnF7gBqzzVFw==,Road,GB → GB,2025-11-18 12:22:06,2025-11-22 00:00:00,,active
+8DaxaRYMVWQn/FAWlsQQcA==,Road,GB → GB,2025-11-18 12:28:35,2025-11-22 00:00:00,,active
+61py9xKscVzjnRekEiyYZg==,Road,GB → GB,2025-11-21 16:19:14,2025-11-22 00:00:00,,active
+s+AOlF2Pds5PFqVpq8p8vA==,Road,ES → GB,2025-11-13 09:11:22,2025-11-22 13:05:05,,active
+dfT/+ut5HdSVz2U4Y9VmJw==,Air,US → CN,2025-11-21 17:26:13,,,active
+A6vFF/LIGAkrL32SnrF7OQ==,Air,NL → CN,2025-11-21 17:29:15,,,active
+FMF2pCjU1GdZ693ksAiLlA==,Air,NL → CN,2025-11-21 17:29:15,,,active
+jzEySVV6aAb782QnNzyQFA==,Road,IT → IT,2025-11-19 11:44:47,,,active
+GMEQ9wxMomAgs6jo/Oc9kQ==,Ocean,CN → GB,2025-11-18 03:25:29,,,active
+qRNXXUF8PB+EKPUE2AxgUA==,Ocean,CN → GB,2025-11-18 03:25:29,,,active
+zfpbyTjDHoHwh6yU00fQnw==,Ocean,TW → GB,2025-11-22 08:21:24,,,active
+ZRhysJ17R6B3TN3NyvKgLg==,Air,BD → NL,2025-11-08 13:21:12,,,active
+YAdeg3vrlKQyQ4/EUdxLDA==,Ocean,UNKNOWN → NL,2025-11-21 05:29:30,,,active
+iqiCHtOkdLAgcR6URSTmSQ==,Ocean,TW → HU,2025-11-19 12:14:58,,,active
+2OinZzf+UnUlcs9wBiVtWQ==,Ocean,IE → US,2025-11-19 10:11:30,,,active
+R51w6x7IiLH27QZpLjiMYQ==,Ocean,IE → US,2025-11-19 10:11:30,,,active
+1hr6VF71PjsqgYi9CCvgAQ==,Ocean,IE → US,2025-11-19 10:11:30,,,active
+XcibCLhfqJhAYfU8NmNnCA==,Air,CN → GB,2025-11-08 13:41:08,,,active
+0oEte3HHjQq62YgQTOV2ww==,Rail,CN → GB,2025-11-08 13:43:49,,,active
+j/NI9HsER9Qn1Fw7nq6nFQ==,Air,CN → GB,2025-11-12 11:15:34,,,active
+pmlztrmdoVyjIRSGpF/N1w==,Air,CN → GB,2025-11-12 11:15:34,,,active
+CwrPTUECEyNgwgpDGwB81g==,Air,CN → GB,2025-11-14 11:03:30,,,active
+ZGnK6pZaH8aNjkuyQWEyjg==,Air,CN → GB,2025-11-14 11:03:30,,,active
+PhFm28EujXTvdWka/uoaaw==,Air,CN → GB,2025-11-19 10:28:42,,,active
+nIPxk3hCYXyjR0pxL7fkLw==,Air,CN → GB,2025-11-19 10:28:42,,,active
+bhprQtCfxkwfhdKaGkSxWA==,Air,CN → GB,2025-11-19 10:28:42,,,active
+Vr4GcF4iRqdnISCy06+qsw==,Air,CN → US,2025-11-09 02:03:20,,,active
+1Q6ymUF9SjYX6PRe6abseg==,Ocean,CN → US,2025-11-12 17:56:55,,,active
+zLHCR/89jlfrZ2ZOrfkzjQ==,Ocean,CN → US,2025-11-12 17:56:55,,,active
+qVCtzAe/wwP1f5jF5vBKTg==,Ocean,CN → US,2025-11-12 18:03:06,,,active
+gU067d4uwz2ItvMuV0fthA==,Ocean,CN → US,2025-11-12 18:03:06,,,active
+8i6YEMRwVV8Q8WA8MoW3Qg==,Air,CN → UNKNOWN,2025-11-14 13:17:53,,,active
+uJTignA55BCmNt15nodTqA==,Ocean,CN → US,2025-11-14 13:20:33,,,active
+ry5DpfxcHDndoqeRqHfCGg==,Air,KR → US,2025-11-15 22:16:21,,,active
+OorflI628+N+A8WrJoKeEg==,Air,US → FR,2025-11-21 16:46:34,,,active
+HFGyzWyVxztMCsyabLSgFw==,Ocean,IT → US,2025-11-21 17:10:08,,,active
+/fZ0wd8MMqmMwVlrLgXjuA==,Ocean,IT → US,2025-11-21 17:10:08,,,active
+QnTTpMib3F1VFrfVAqxp3w==,Ocean,CN → US,2025-11-21 23:34:15,,,active
+B8wQOrjC1iyGTkHXRXSA0w==,Ocean,CN → US,2025-11-21 23:34:15,,,active
+pGWoYbjU8HmpjqvmNLBGjQ==,Ocean,TR → US,2025-11-15 08:04:17,,,active
+A1VFC5c/wCjNoCmAAdXuwA==,Ocean,IN → GB,2025-11-20 10:27:52,,,active
+higgBXyIptbdI9P/ffZkSg==,Ocean,CN → GB,2025-11-21 10:39:47,,,active
+qTa/X483dZ44CzULyXpupg==,Ocean,CN → US,2025-11-21 10:41:12,,,active
+07dmd3tlu7Zyc6sIkpQ7nw==,Air,IN → GB,2025-11-11 10:51:12,,,active
+NPBhTP531I+TUXkssGRrrg==,Air,IN → GB,2025-11-11 10:51:12,,,active
+wIUBG5CPXei2VFOdEbKAvg==,Air,IN → GB,2025-11-11 10:51:12,,,active
+RPiF011W1AO7VpMOSgjfxw==,Air,IN → GB,2025-11-11 10:51:12,,,active
+fN0TTdD0uoLXA4gqXGJ/gQ==,Ocean,IN → GB,2025-11-19 16:30:32,,,active
+EC3s4YYXvApigDIIa/2c+Q==,Air,GB → US,2025-11-14 09:43:04,,,active
+7/Zd/FwQRA0i3AuULzVJ4A==,Air,GB → US,2025-11-14 09:43:04,,,active
+#ERROR!,Air,GB → US,2025-11-14 09:47:22,,,active
+LRKcTROMVfNQOhL9D77HBA==,Road,US → US,2025-11-21 10:46:42,,,active
+0e9+aenBSIpRW6DG/Vc0pQ==,Air,CN → NL,2025-11-21 15:55:45,,,active
+SeZJN1Y725Vokp+3+s2UbA==,Air,SE → AU,2025-11-21 15:53:44,,,active
+TAbzf/sb+X/texNVB2GVnA==,Ocean,UNKNOWN → GB,2025-11-18 06:02:49,,,active
+Fwbqyzn20iOzgaRwWATveA==,Air,UNKNOWN → GB,2025-11-01 12:05:32,,,active
+jbGjGZiHIkSf7FMMDDvAsw==,Air,UNKNOWN → GB,2025-11-01 12:05:32,,,active
+B2fhrAwSknMnJjhJsT7yMw==,Ocean,AU → GB,2025-11-04 11:40:28,,,active
+T46kOhzzI4nm/LeHpU1Pfw==,Air,GB → US,2025-11-04 15:05:11,,,active
+mh5gwyhTx/b9pdJCxfaHjQ==,Air,GB → US,2025-11-04 15:05:11,,,active
+qYioNwjj8tAXiWi5ErNAWQ==,Air,GB → US,2025-11-04 15:05:11,,,active
+9cVFIxkWdg/OhWODjJZVWA==,Ocean,CN → US,2025-11-06 09:47:24,,,active
+6aum60B2/VN4usFhUR2R+g==,Air,GB → UNKNOWN,2025-11-08 10:09:27,,,active
+veh00Vcdm1J3838Pjo/YkQ==,Air,GB → UNKNOWN,2025-11-08 10:11:54,,,active
+TQx2HZroAwlQn9htd/FF9w==,Air,KR → GB,2025-11-08 15:55:00,,,active
+5VMsllWg0j7UnZeKl5eBwQ==,Air,GB → AE,2025-11-11 16:50:45,,,active
+xYZ3pFGE3GxDsEwYmecc7Q==,Air,GB → BH,2025-11-13 11:53:24,,,active
+l+d1k9riHyolxo+SP0K4Aw==,Air,CN → GB,2025-11-13 12:01:13,,,active
+d1Dv5gOO/IumfZq2dXiRKA==,Ocean,UNKNOWN → US,2025-11-13 21:50:49,,,active
+xmw6E7UxMupCej/7fPFx1A==,Air,US → GB,2025-11-14 17:46:48,,,active
+42fiqZMeaqIaxsJjXvs4Kg==,Air,US → GB,2025-11-14 17:46:48,,,active
+5B9+T3bj6M7hI+ynku4BEQ==,Air,US → GB,2025-11-14 17:46:48,,,active
+T9ZXjsKdbjEFzI3cbRawkw==,Air,GB → IS,2025-11-19 14:09:00,,,active
+opMY6u20fiAYxcPMhNQQQw==,Ocean,US → SG,2025-11-19 15:41:29,,,active
+Ped/GYYMDyUspkgeW9uXpg==,Ocean,PL → US,2025-11-20 12:26:46,,,active
+vjUj/pZkUQqMuWqTFXVdDQ==,Ocean,CN → US,2025-11-21 11:32:24,,,active
+PF3ltNN4wyy667tN4wqWDA==,Air,CA → GB,2025-11-21 18:24:43,,,active
+LavHxnRodskRwfHWJ//qpw==,Ocean,CN → GB,2025-11-05 07:12:59,,,active
+/6nc451NdMhqAjhSgmr1cA==,Air,HK → GB,2025-11-13 08:10:45,,,active
+0igkjKW2A0+ql0OguTllHQ==,Ocean,CN → GB,2025-11-15 03:46:14,,,active
+UMnuqPNUlM+dP2eI3FgUwQ==,Ocean,CN → GB,2025-11-18 07:39:15,,,active
+zOxBZ7gOWk9xGL9IvWIXCg==,Ocean,CN → GB,2025-11-18 07:48:57,,,active
+ZS37HYrCQ86q4fuVk7YWfg==,Ocean,CN → GB,2025-11-19 03:10:39,,,active
+J9naWSeGc1UEuBZhIgPD3Q==,Ocean,CN → GB,2025-11-19 04:05:23,,,active
+hu/wCOpBCZVKd8UOxDbkuQ==,Ocean,CN → GB,2025-11-19 07:01:35,,,active
+Zie57N+a2QCDLFm2FNg4OA==,Ocean,HK → GB,2025-11-19 08:12:50,,,active
+W2jQ6y9Qwxj3MNcO697K1A==,Ocean,HK → GB,2025-11-19 08:12:50,,,active
+3UeQOHE/h2ucXBNJ+8WjtQ==,Ocean,TW → GB,2025-11-20 03:26:28,,,active
+BvGiL55wi+QDhc0Xz7dZLQ==,Ocean,CN → GB,2025-11-20 12:37:45,,,active
+X6tkBZxluyVuq2WTDQKVKA==,Ocean,CN → GB,2025-11-20 12:37:45,,,active
+xnzsTpVacqWRdsdWl1JJzg==,Ocean,CN → GB,2025-11-20 12:37:45,,,active
+GK4sv5IbpJxDE7WLjAl0lA==,Ocean,CN → GB,2025-11-21 01:15:34,,,active
+1COwXoL7dKG2Vp/CJP5YXA==,Ocean,CN → GB,2025-11-21 03:12:15,,,active
+UR2EX4b9cTAU+yQ51B42tQ==,Ocean,HK → GB,2025-11-21 03:52:38,,,active
+fvblXXk0PBTHmXQvcQUdnw==,Ocean,HK → GB,2025-11-21 03:58:13,,,active
+PkCCqPByErwItKyZcpaYKg==,Ocean,HK → GB,2025-11-21 04:39:45,,,active
+KormCkAKMFPSisbh9QxPMg==,Ocean,CN → GB,2025-11-21 06:03:12,,,active
+LOGcHiCm6YMOGXtWEST1zQ==,Ocean,CN → GB,2025-11-21 06:12:29,,,active
+NqfVFjNGHqxuSVL74FKt3w==,Ocean,CN → GB,2025-11-21 06:38:32,,,active
+9xQCdU35wf3BMMJ3BqSBJA==,Ocean,TW → GB,2025-11-21 07:18:33,,,active
+mbsdESGQwiGAYK3/L1Hmmw==,Ocean,CN → GB,2025-11-21 09:49:40,,,active
+jQiQXFuv9hNyTXcGhs3BoA==,Ocean,CN → GB,2025-11-22 01:18:40,,,active
+W55jbdQ6nXxOCiRqPA2Arg==,Ocean,CN → GB,2025-11-22 02:45:02,,,active
+M0M5wukliV6nWPqkq//Jvg==,Ocean,CN → GB,2025-11-22 02:45:02,,,active
+dFnLQ7CFOkEVTd3tGCGEdg==,Ocean,CN → GB,2025-11-22 02:45:02,,,active
+W7whPJQSapxS9O7fepCa5w==,Ocean,CN → GB,2025-11-22 02:45:02,,,active
+5FS6HUZDnrH+rdRgXRs6Gw==,Ocean,CN → GB,2025-11-22 03:56:29,,,active
+8w5+/eucCtiAX15zYbHbtg==,Ocean,CN → GB,2025-11-22 03:56:29,,,active
+Cuv9zsHzGE1+p7l+m1WxZg==,Ocean,CN → GB,2025-11-22 03:56:29,,,active
+YPNAzCqlkmdG5MNixefg2A==,Ocean,CN → NL,2025-11-22 07:42:58,,,active
+AePnqTuKtlK36zzgEni2/A==,Ocean,CN → GB,2025-11-22 10:06:38,,,active
+wXq7bcz5RxeJ451P/ElbrQ==,Ocean,CN → GB,2025-11-22 10:06:38,,,active
+MRF+B5GfYXVRXmWVV6eCgQ==,Ocean,UNKNOWN → US,2025-11-19 05:15:08,,,active
+Xjao0vwzsN9/LHPOjHQvdw==,Ocean,UNKNOWN → GB,2025-11-19 09:10:48,,,active
+BvSjx4ocZWJ3oBSkYbOMow==,Ocean,UNKNOWN → UNKNOWN,2025-11-19 09:58:42,,,active
+8BgzgIy0jV5syDdeJLDaKQ==,Air,TR → CN,2025-11-20 13:45:04,,,active
+n+rEQd/GxOzehkjnxcvPtA==,Air,CN → GB,2025-11-21 11:15:11,,,active
+#ERROR!,Air,VN → GB,2025-11-22 09:38:44,,,active
+LsniGnloUgWtLCzph0E7aQ==,Air,LK → GB,2025-11-20 09:57:12,,,active
+yq9xGNPifNzhNva2OJddrg==,Ocean,NL → UNKNOWN,2025-11-01 16:53:41,,,active
+Xa02HHAKNPALNXW38F+JzQ==,Ocean,NL → UNKNOWN,2025-11-01 16:58:59,,,active
+VglNjzDVa1v8cT4zlZPF8g==,Air,CN → NL,2025-11-06 08:43:45,,,active
+G/o4SLmbk4/eIelvxj/o7Q==,Ocean,CN → UNKNOWN,2025-11-14 10:33:27,,,active
+qMtf0QXQElZhK/vHyR+RGQ==,Air,VN → NL,2025-11-14 15:38:39,,,active
+Gq+NNhWYGTeifA9IvYwhfQ==,Air,CN → NL,2025-11-20 14:24:25,,,active
+NlPP7yFpJpuhbM7J3Amv8g==,Ocean,US → NL,2025-11-20 17:50:51,,,active
+Bno2QpzpBeNb5vvp8mEsoA==,Air,NL → AE,2025-11-21 11:55:18,,,active
+Tc6PrNBPq51HlkNce4JyHg==,Air,KR → GB,2025-11-11 06:20:17,,,active
+rrsorotppOatmjPHEujBGA==,Air,KR → GB,2025-11-11 06:20:17,,,active
+FewCdTfGBWICVz06BU44cA==,Air,KR → PL,2025-11-14 09:43:51,,,active
+ElJrFfDFnhlR/whbuGAiaA==,Ocean,KR → GB,2025-11-18 07:37:48,,,active
+7vhf2kx2mn89VdJTW92LHw==,Ocean,KR → US,2025-11-21 20:50:45,,,active
+#ERROR!,Ocean,KR → US,2025-11-21 20:52:38,,,active
+VI33cp3BMfWazXljrmM5BQ==,Ocean,IN → GB,2025-11-19 11:03:29,,,active
+zCRfOQzQ16cFvK1NeUIblQ==,Ocean,IN → GB,2025-11-19 11:04:04,,,active
+Pffss+tA7fLCe+ViKyNc5Q==,Road,GB → GB,2025-11-01 05:40:01,,,active
+bGLM/FqpE60T7FTEyuU1+w==,Road,GB → GB,2025-11-04 08:13:37,,,active
+NDSn8HfPNStOdbMMvq5Blw==,Road,GB → GB,2025-11-04 14:15:07,,,active
+4bkJdBR++uUoRtP8pRpyBQ==,Road,TR → GB,2025-11-05 08:17:25,,,active
+j5Ek+55WZ2+g39qgrHh6Eg==,Road,TR → GB,2025-11-05 14:17:49,,,active
+4s59irGXSirgJGt5VuHX6w==,Road,TR → GB,2025-11-05 14:19:33,,,active
+PcF9KOekzpe9rpC1FaNvGg==,Road,TR → GB,2025-11-05 14:22:51,,,active
+fWEtQQIkv3MZXIoGqxmKig==,Road,TR → GB,2025-11-05 14:23:37,,,active
+9gvhTrQgwizWsOXHRZE9PQ==,Road,TR → GB,2025-11-05 14:25:23,,,active
+e4TnZzhzoiYGON1bzANuXw==,Road,TR → GB,2025-11-05 14:26:22,,,active
+W2xvsurcB6gHcIRCqYtbXg==,Road,TR → GB,2025-11-05 14:32:12,,,active
+eRyzBZCm6xb9K7NLe1sbCw==,Road,TR → GB,2025-11-05 14:35:58,,,active
+#ERROR!,Road,TR → GB,2025-11-05 14:38:07,,,active
+nAVCdUUcvbgdYP5T2CTHJA==,Road,TR → GB,2025-11-05 14:38:49,,,active
+2zSHuD/z5mRs1WLUevJfgA==,Road,TR → GB,2025-11-05 14:39:30,,,active
+YBHZ7TlqJMiRib1YLEtVrw==,Road,TR → GB,2025-11-05 14:40:42,,,active
+F7svSTesnrD8h87D09BuAA==,Road,TR → GB,2025-11-05 14:41:46,,,active
+kg2ZeCR5sNYC9KsB36BYUA==,Road,TR → GB,2025-11-05 14:42:25,,,active
+7Vik14fdkByJDk1h7dpbVA==,Road,TR → GB,2025-11-05 14:43:05,,,active
+Qm/FBqKfQbQQp2REh8lb1Q==,Road,TR → GB,2025-11-05 14:47:50,,,active
+XeMFETLzmG4cB4E7ggG6FQ==,Road,TR → GB,2025-11-05 14:51:51,,,active
+w9c7EAFoIHsn2qOCVFh09g==,Road,TR → GB,2025-11-05 14:53:57,,,active
+jS4hPgCJBE/wYNS0NJnY0w==,Road,TR → GB,2025-11-05 14:54:40,,,active
+OMNFry0RiD0BIpVMN2SULQ==,Road,TR → GB,2025-11-05 15:00:11,,,active
+qGP+qrvo2V+ikn214rANqA==,Road,TR → GB,2025-11-06 05:42:24,,,active
+kHD7xUFMe+X/1uqXSIfCJA==,Road,TR → GB,2025-11-07 11:33:20,,,active
+RYFfGTWeo0gNr08NOhSpQg==,Road,TR → GB,2025-11-07 11:34:30,,,active
+mXVtkLZClfcibF2jvoOpOQ==,Road,TR → GB,2025-11-07 11:35:36,,,active
+W5mALnMsC4RVWnCiwm60RA==,Road,TR → GB,2025-11-07 11:37:29,,,active
+1s0e+do2PjZDObIuCOOhfQ==,Road,TR → GB,2025-11-07 11:38:04,,,active
+6kh6Crqd4mnpFqy4cicOpw==,Road,TR → GB,2025-11-07 12:50:08,,,active
+9j8aXVTu/Q6/7XqpHaaGQQ==,Road,TR → GB,2025-11-07 12:51:01,,,active
+#ERROR!,Road,NL → GB,2025-11-08 12:32:31,,,active
+OdWQJZFzihjOZm89VNNqhw==,Road,TR → GB,2025-11-08 12:45:38,,,active
+aLw+u7GuPJlrQK0XoE7dgw==,Road,TR → GB,2025-11-08 12:46:29,,,active
+nUuhLiYCiUhfxs7/TTe6ng==,Road,GB → GB,2025-11-08 15:24:20,,,active
+7HDRWJi2lzuKKLME7dYR5A==,Road,GB → GB,2025-11-08 15:26:02,,,active
+rL1FDcmkr3xXy5l+4usMIg==,Road,GB → GB,2025-11-11 06:57:25,,,active
+EoK6agGv5lCIpDwVo6xV6A==,Road,GB → GB,2025-11-11 08:54:15,,,active
+HBiM2COiiGBrJ9s2udxMyw==,Road,GB → GB,2025-11-11 13:47:45,,,active
+YDccnLPmxeclITC++DJs4Q==,Road,GB → GB,2025-11-11 13:52:02,,,active
+#ERROR!,Road,GB → GB,2025-11-11 13:53:38,,,active
+INK8GvgjbBUpycTtizWugQ==,Road,GB → GB,2025-11-11 13:55:35,,,active
+pUeshXceH2uii7iFmbQ9JQ==,Road,TR → GB,2025-11-12 13:08:22,,,active
+IdKCwHIOu5V1K3GuZYtZzA==,Road,TR → GB,2025-11-12 13:10:32,,,active
+LeosskTjOybAjOAGv8Fy8Q==,Road,TR → GB,2025-11-12 13:11:17,,,active
+COrIIwR/vcCMzlZj2pju4A==,Road,TR → GB,2025-11-12 13:14:16,,,active
+Db4Eke9XgdgCAnr03vdnIg==,Road,TR → GB,2025-11-12 13:16:43,,,active
+UpcIA0kIQuaamy+jZ0L55w==,Road,GB → GB,2025-11-12 15:07:37,,,active
+lATxEs4DrokOlziLy9j8Ug==,Road,GB → GB,2025-11-12 15:08:49,,,active
+Z6Xvdp98iCz9jdowofs1aQ==,Road,GB → GB,2025-11-12 15:10:15,,,active
+vJZckSuzFNgJ7c3WsukUnA==,Road,GB → GB,2025-11-12 15:11:21,,,active
+Mn/e25DAzO5gcFiuvryP/A==,Road,GB → GB,2025-11-12 15:12:21,,,active
+VP/8Ssn8HO6NWI7emkhe2w==,Road,GB → GB,2025-11-12 15:13:17,,,active
+SVfATZIif9VXJnht+TE8zg==,Road,GB → GB,2025-11-12 15:14:21,,,active
+YXVEn5M6wNgkd1kl83Uyeg==,Road,GB → GB,2025-11-12 15:15:42,,,active
+aAsYnCWGW6pDmTTp0pWjsQ==,Road,GB → GB,2025-11-12 15:17:09,,,active
+pnx+AXrZC58ev+TcsPjmpA==,Road,GB → GB,2025-11-18 12:20:29,,,active
+GETVqKmKbnnvt2ptJ91gUQ==,Road,GB → GB,2025-11-18 12:22:32,,,active
+gZFYun8XuDZ7qzviAf4vMQ==,Road,GB → GB,2025-11-18 12:24:29,,,active
+fkVmK+WdL9FRBDDzv0pFyg==,Road,GB → GB,2025-11-18 12:26:29,,,active
+JeJDCwWf5jUkHvNMay5nVg==,Road,GB → GB,2025-11-18 12:28:23,,,active
+uGA2hOXN3IPNoLvv+JsQmg==,Road,GB → GB,2025-11-19 10:17:47,,,active
+q1tsnDsQiIiChqJlxC9rsQ==,Road,GB → GB,2025-11-19 10:20:16,,,active
+Y11xhMlHwL/I4GTLnuh1+Q==,Road,GB → GB,2025-11-19 10:21:35,,,active
+r0Iov7WpKf/aDBEJ8lNpTg==,Road,TR → GB,2025-11-19 13:17:01,,,active
+P199h51MCJ6bC6ortpRTkw==,Road,TR → GB,2025-11-19 13:18:09,,,active
+bJ26EQAT0iBhLClVFYOFNA==,Road,TR → GB,2025-11-19 13:19:25,,,active
+GxSSdu2zVfHLKzrujpqxVw==,Road,TR → GB,2025-11-19 13:20:27,,,active
+aUAe07VRWLd5ofXWreE6/A==,Road,TR → GB,2025-11-19 13:22:03,,,active
+EIv5YAAa469SIW+I8sfhUw==,Road,TR → GB,2025-11-19 13:53:04,,,active
+rkZjTjAIk9JX8K/+05awKg==,Road,TR → GB,2025-11-19 13:54:11,,,active
+NGSza8Qi2JGJ1jPFHpauCA==,Road,TR → GB,2025-11-19 13:54:53,,,active
+Bc8hJ2R1aDCMzvMdNkym4w==,Road,TR → GB,2025-11-19 13:55:38,,,active
+95hW318ZrWjG38hSyhXpdA==,Road,TR → GB,2025-11-19 14:00:09,,,active
+XDOa/TKjEECgznyYsL5v5g==,Road,TR → GB,2025-11-19 14:02:14,,,active
+A9ZE9Hv1mVQem7PCFM93eg==,Road,TR → GB,2025-11-19 14:03:10,,,active
+FAQ9X8Fg6VXtqboZly2cMQ==,Road,TR → GB,2025-11-19 14:05:00,,,active
+W/w7j545Pc0cnHl0z+drYQ==,Road,TR → GB,2025-11-19 14:12:11,,,active
+7ikVRV/AufbUDGJGRMAJIw==,Road,TR → GB,2025-11-19 14:13:15,,,active
+idNKFtY6g8YZbjycPs5ocw==,Road,TR → GB,2025-11-19 14:14:05,,,active
+rc+lxSMfHA6EJRsQGUIAUw==,Road,TR → GB,2025-11-19 14:15:01,,,active
+qWiRFBqiq860YsWQvadQuw==,Road,TR → GB,2025-11-19 14:15:15,,,active
+rcVP9mJkxrUwp9X3BlY4Wg==,Road,TR → GB,2025-11-19 14:16:09,,,active
+GKyWO/4aOCKG1DqQ2jm/0Q==,Road,TR → GB,2025-11-19 14:16:24,,,active
+OYQEywK8uGUpHysFtLKSrQ==,Road,TR → GB,2025-11-19 14:16:50,,,active
+a7GPe/c/T4kRpBuiB9pc2g==,Road,TR → GB,2025-11-19 14:20:05,,,active
+hbg64+WftY/2IWomzELJog==,Road,TR → GB,2025-11-19 14:20:58,,,active
+H2W+P5/E7/jB+xB6JHc0Hw==,Road,TR → GB,2025-11-19 14:21:50,,,active
+Nzm/yPALaPRiaoDuUG3MyA==,Road,TR → GB,2025-11-19 14:22:44,,,active
+hLdeCg8SbBNd8n8P1e+L7Q==,Road,TR → GB,2025-11-19 14:24:04,,,active
+mMfrQjbN++0RIBUkdFZvag==,Road,TR → GB,2025-11-19 14:25:05,,,active
+jwKBeyf6za7CxSecD7Jhjg==,Road,TR → GB,2025-11-19 14:26:33,,,active
+g8j9aazOc1U0TBgT9vCgqQ==,Road,TR → GB,2025-11-19 14:27:19,,,active
+Jv0RwXZacy5RRFONIx+wHQ==,Road,PT → GB,2025-11-19 14:32:19,,,active
+Bkgm/9yBZK81IwdBwf9HBA==,Road,PT → GB,2025-11-19 14:36:02,,,active
+XJktmSNIe/oooF5a+wHMSA==,Road,GB → GB,2025-11-19 14:46:28,,,active
+i4w8XgOmYaG4fCqS8NaKTQ==,Road,GB → GB,2025-11-19 14:48:57,,,active
+saf9umSxPqH1X0Q1NqjsKg==,Road,TR → GB,2025-11-19 15:23:30,,,active
+RU4jeDJP8gv56vCJKb5HhA==,Road,TR → GB,2025-11-19 15:24:06,,,active
+bflPSYvpcNAYodtuj/CkXA==,Road,TR → GB,2025-11-19 15:25:46,,,active
+vmX3p3/NiRHmGK8hnOzf0w==,Road,TR → GB,2025-11-19 15:26:47,,,active
+e4vP3ayLW6KHCQwLVqMIuQ==,Road,TR → GB,2025-11-19 15:28:03,,,active
+x3ToldAMCnkMBTo8+BapbA==,Road,TR → GB,2025-11-19 15:30:34,,,active
+FFJ5wlJveHGrPl0stJ2iZA==,Road,TR → GB,2025-11-19 15:31:22,,,active
+SKjfIo45eVSmMVWmqpm4NA==,Road,TR → GB,2025-11-19 15:32:03,,,active
+5t8DPpRCpCKKxTqeIUjhRg==,Road,GB → GB,2025-11-19 16:01:37,,,active
+VjwOzW7VGqjxJkE9DDSS2Q==,Road,GB → GB,2025-11-19 16:03:02,,,active
+tcx9NlrQ88T/xmJO4qslJg==,Road,TR → GB,2025-11-20 09:48:06,,,active
+H9n4tBhHmwFWMYX9W4esTQ==,Road,ES → GB,2025-11-20 12:22:16,,,active
+dEpmwSA+Oxc10zeFNEmdHA==,Road,GB → GB,2025-11-20 21:59:12,,,active
+IjCtZU3r17Hb27y/oEHM2Q==,Road,GB → GB,2025-11-20 22:02:49,,,active
+I06IheLMgwTwMx28QNuZmg==,Road,GB → GB,2025-11-20 22:03:49,,,active
+MxjurQDaOTkMNIfYR9vf+Q==,Road,GB → GB,2025-11-22 11:14:25,,,active
+ld6Jsh7/odMmjpOrdx27JQ==,Road,GB → GB,2025-11-22 11:16:39,,,active
+qz7zox9cgKzpljCwTb/AaQ==,Road,TR → GB,2025-11-22 12:02:16,,,active
+#ERROR!,Road,GB → GB,2025-11-22 12:04:33,,,active
+nNPa7U1ClHPy4tyBIpQNUA==,Air,CN → US,2025-11-14 06:10:50,,,active
+yblXhHSE+EbkuPKbcTF75A==,Air,CN → GB,2025-11-15 07:14:45,,,active
+B6a7NOFzASLGy9WwYPcv/g==,Air,CN → GB,2025-11-19 15:42:51,,,active
+cYvdYCLYtZjzKDp3f07jeQ==,Air,CN → GB,2025-11-19 15:42:51,,,active
+3mlvz8GAG9xxp/FsSt1RKA==,Ocean,CN → GB,2025-11-20 09:10:16,,,active
+ZmpF475Zztj5Sg5QwAcaBg==,Road,UNKNOWN → GB,2025-11-20 14:26:37,,,active
+5C/ATF8k10W9sFHHDjZxww==,Road,GB → GB,2025-11-20 14:26:37,,,active
+deYslas9ZXMHybCMIBEuRg==,Road,GB → GB,2025-11-20 17:53:57,,,active
+FE3/CsUIl5mIyDH+6RpP/Q==,Road,GB → GB,2025-11-20 18:04:36,,,active
+lNXU2i2Qi7naFLUVvEbB4g==,Air,GB → US,2025-11-22 10:59:25,,,active
+/m5xos4cTP7IUwrYv01RHg==,Road,ES → NL,2025-11-21 17:44:45,,,active
+pGtjIAopYEBL4lyYgEgH/w==,Road,DK → NL,2025-11-22 10:07:39,,,active
+B/uqGfKNty7bkkUInBwbjA==,Road,DK → NL,2025-11-22 10:07:39,,,active
+JgNMALO1t1in5SHgUVhNEg==,Road,IT → NL,2025-11-22 10:53:22,,,active
+6S9h26g9MKy3zU7LizTRwQ==,Air,UNKNOWN → US,2025-11-22 10:04:08,,,active
+ypxhg60lue+tK3RMDhybKw==,Air,GB → PT,2025-11-12 15:42:32,,,active
+fyOsq4jF4s3vUsM6ubYDYA==,Road,GB → FR,2025-11-15 16:48:12,,,active
+WuF8cUVOis9CGBbXI0x5Cw==,Road,GB → GB,2025-11-15 16:55:50,,,active
+m8Qc0wTImw+BkkhrNegIOA==,Air,AE → NL,2025-11-11 16:06:29,,,active
+mz+3QFlUHNM84bi/F1flAw==,Ocean,AE → NL,2025-11-11 16:15:07,,,active
+au5ICh3MN6iKh4I9q2mnjA==,Ocean,US → DE,2025-11-07 18:19:23,,,active
+0A2CGJso7IascA8EieLmng==,Ocean,CN → US,2025-11-22 06:21:29,,,active
+J0BHXUEafoqXL83MjS1RuA==,Ocean,CN → US,2025-11-22 06:24:31,,,active
+idd22A50EgkXpXQBSOFsng==,Ocean,CN → US,2025-11-22 06:29:46,,,active
+S6yzov5nnwaHwH4OgF/CXA==,Ocean,CN → US,2025-11-22 06:29:46,,,active
+Lb+keAWlJi7SQ2iRxW2IvA==,Ocean,CN → US,2025-11-22 06:29:46,,,active
+pNOXVIjTKV2DSITTz7I7ig==,Ocean,CN → US,2025-11-22 06:29:46,,,active
+7RIzIsipF+vs0xpNWoKZtQ==,Ocean,CN → US,2025-11-22 06:37:12,,,active
+FXGaHa8dI7jq8mGXAVwlMg==,Ocean,CN → US,2025-11-22 06:37:12,,,active
+WF78AIe5ji0ULvA6r6ClHA==,Ocean,CN → US,2025-11-22 06:37:12,,,active
+IdacKkNNPxy6BvRA/X0P9w==,Ocean,CN → US,2025-11-22 06:40:58,,,active
+Ms3wcdVDjzarDFLwqpq2ew==,Ocean,CN → US,2025-11-22 06:40:58,,,active
+fBw7qiZFp+qN6iYd5v8zVQ==,Ocean,CN → US,2025-11-22 06:40:58,,,active
+q1zFqRWDAtnSAiUAgc3Txg==,Ocean,CN → US,2025-11-22 06:40:58,,,active
+CNpsG2bMaAuafZ2v5X4QxA==,Ocean,CN → US,2025-11-22 06:43:12,,,active
+3VBvj2EEvbSf7LlDIXmNgg==,Air,CN → GB,2025-11-10 22:52:35,,,active
+xJm9ryF7+UhdnfEfhGRfMw==,Air,GB → US,2025-11-15 16:11:41,,,active
+qldloYI7BeHhK9QG188VsQ==,Air,CN → GB,2025-11-18 01:35:24,,,active
+GODejlmEfrOqwlMvHYRCMQ==,Air,HK → GB,2025-11-19 23:37:20,,,active
+bNDznaTOCNpITNP9XcwdMg==,Air,HK → GB,2025-11-19 23:37:20,,,active
+d/9a4REBwUEByr4bcjY6Mw==,Road,DE → GB,2025-11-21 09:42:46,,,active
+9OnKsD3V0diPrs5fUdVN3Q==,Road,DE → GB,2025-11-21 09:42:46,,,active
+gudIDfs+AV8VytQOXMjV/w==,Road,DE → GB,2025-11-21 09:42:46,,,active
+fOsEO1ci1Gu6mrBXfwPmRA==,Road,DE → GB,2025-11-21 09:42:46,,,active
+EFT8Q7sr3X3uB8BPFFIlZw==,Road,RO → GB,2025-11-21 12:25:53,,,active
+Wei/OUHob5OTsj50LMWWKg==,Road,BE → GB,2025-11-21 12:41:02,,,active
+MasUIEhVQrwUkTzi6ZJF6g==,Air,US → GB,2025-11-21 18:04:31,,,active
+NC/djLzpiR+rSPndhhwLsw==,Air,US → GB,2025-11-21 18:04:31,,,active
+F3sq0TSK4fecsb9cKjtcWw==,Air,US → GB,2025-11-21 18:04:31,,,active
+SqvzO0LJc2xsJRiqdPd4pw==,Air,US → GB,2025-11-21 19:04:43,,,active
+wy1dAN8MsSVD3WCMztdT8g==,Air,VN → GB,2025-11-22 05:22:38,,,active
+KiDFXo7WwgWsyLb01KRbEQ==,Air,VN → GB,2025-11-22 05:26:45,,,active
+VdaQRXcm3YGHM94Jhp1xVA==,Road,DE → GB,2025-11-22 11:46:13,,,active
+stGwaW76JuXFoPXIUMYUOg==,Air,IN → GB,2025-11-22 12:27:52,,,active
+WQg/YMYFYZ5Zw0q26sLn/A==,Road,GB → GG,2025-11-21 14:54:03,,,active
+xdoSf++3epCqWZgBO6/+tg==,Air,TR → GB,2025-11-11 14:58:48,,,active
+9xImwfxUiyYVgIF0kSjKHg==,Air,TR → US,2025-11-11 14:58:48,,,active
+z8mvqxtenCqAfrSMlvMuow==,Air,TR → GB,2025-11-11 14:58:48,,,active
+GO1YO/h6Lu3hCgvdnTy3bA==,Air,TR → GB,2025-11-11 14:58:48,,,active
+RiB1PNVOLhhOm7z34mwh3g==,Ocean,GB → US,2025-11-18 11:46:03,,,active
+1lhVrlG9aGqDV2gYfKOjcg==,Ocean,GB → US,2025-11-18 11:47:37,,,active
+bfdxsAKCuQ9O5JGF2/VYxw==,Ocean,CN → GB,2025-11-20 11:00:19,,,active
+MIANcZFalrlvSJrYAYR1Gg==,Ocean,CN → US,2025-11-20 13:42:12,,,active
+aU6OUPL271Sit+mRIIcuCw==,Air,CN → CA,2025-11-11 20:37:32,,,active
+lsqLzF+w7cw/CV/oc9W9/g==,Ocean,UNKNOWN → UNKNOWN,2025-11-21 15:37:41,,,active
+GogNs0cNvMCtxSPOAecflw==,Ocean,CN → CA,2025-11-21 15:37:41,,,active
+JNW29eaPu/+i+FMF57Ls7g==,Ocean,UNKNOWN → UNKNOWN,2025-11-21 15:37:41,,,active
+zQ2fDPU8LhXshYpt4HXGjQ==,Air,CN → US,2025-11-06 08:44:12,,,active
+vNncXFGXrxlLbXKNATotUQ==,Ocean,CN → CA,2025-11-11 08:34:08,,,active
+fOjc3Vux2Y1fKZPEC2G6NA==,Ocean,CN → CA,2025-11-12 00:25:03,,,active
+owSIn8M0vvVgWXDg1XyVZg==,Ocean,CN → CA,2025-11-12 02:57:13,,,active
+ujudLV0l/MHnyt322IQshg==,Ocean,CN → CA,2025-11-12 02:57:13,,,active
+fj5o6o6/38xnXCod8tISeg==,Ocean,CN → CA,2025-11-12 02:57:13,,,active
+OYHsoqZmR3QgCKX24vwdcQ==,Ocean,CN → US,2025-11-12 03:47:53,,,active
+bpt3X383gjo+9lf9wih6SA==,Ocean,CN → UNKNOWN,2025-11-12 08:57:08,,,active
+D/OpBGPzhtHVRUf126K4Ew==,Ocean,CN → CA,2025-11-13 09:04:33,,,active
+Ap0KfEx0c2kJUUaPpYjDbw==,Ocean,CN → US,2025-11-13 09:09:53,,,active
+x5Iq/+pxBfWWlKqdfFBTdA==,Ocean,CN → UNKNOWN,2025-11-13 09:39:45,,,active
+KWELb/+zDXyVB2sSGbqJpg==,Ocean,CN → UNKNOWN,2025-11-18 08:57:36,,,active
+PU+NfMX9nHrdBwnJN7l5aA==,Ocean,CN → UNKNOWN,2025-11-18 08:57:36,,,active
+21DAypGFnQ8z/Xp7gEBDoA==,Ocean,CN → US,2025-11-19 05:40:42,,,active
+5LU2IC7/4lqLqlfSB1zulw==,Air,CN → GB,2025-11-19 08:02:19,,,active
+wEfMNR9Y2wIJStu42xlOIA==,Ocean,UNKNOWN → US,2025-11-20 05:51:46,,,active
+Qxu+W6nGEye3BaEvhYuTVA==,Ocean,CN → CA,2025-11-21 02:09:03,,,active
+r/H93FnwNaK6toU4jRfBCA==,Ocean,CN → UNKNOWN,2025-11-21 02:09:23,,,active
+nHRAhIHVv8Z8mrsyXY8UuA==,Ocean,CN → US,2025-11-21 02:58:59,,,active
+RTxDtVkBFqcV2Zq2kQxd7Q==,Road,US → US,2025-11-21 03:17:33,,,active
+r+t1SMJSVrJvnRVDH0UHqw==,Air,DE → CA,2025-11-22 06:07:23,,,active
+UfiKspoc8CsPVylj/h9Kkw==,Air,DE → CA,2025-11-22 06:08:47,,,active
+a588fFrsZN+Nt4so3eoRTw==,Air,DE → CA,2025-11-22 06:09:39,,,active
+KgneuSm/PcENBwilhAAm4w==,Ocean,BD → US,2025-11-22 07:25:51,,,active
+e8B8j6NLH6RVpY2Ut7AKSw==,Air,UNKNOWN → NL,2025-11-14 06:03:15,,,active
+g8x0eY3RoDTu+BCxbFFfuA==,Road,NL → GB,2025-11-21 09:27:42,,,active
+TXQHC94rgSRTWyaybRdOLg==,Ocean,HK → US,2025-11-21 01:33:47,,,active
+h3kBalZw4cgFLFRRz/N/BA==,Air,CN → GB,2025-11-07 09:55:45,,,active
+kegpnprHOOsDpa7ch7wzuQ==,Road,DE → FR,2025-11-20 16:55:24,,,active
+jzYaFIo7M2vc4q+WNTfjvw==,Road,DE → FR,2025-11-20 16:55:24,,,active
+AfN6uA+Tsz3b8eRCyRTDVQ==,Rail,CN → NL,2025-11-11 01:55:37,,,active
+axKbFYo+CAUWDlDQj1UYdQ==,Air,US → GB,2025-11-21 17:28:34,,,active
+Os95XwX6u25zlt8cdYfKdg==,Ocean,CN → AU,2025-11-19 04:52:58,,,active
+8K7oRRPjTcjZhwcKcPAk3g==,Ocean,CN → AU,2025-11-19 05:06:41,,,active
+hrJU5c7CJmw3pFK4Eqqe1w==,Ocean,CN → AU,2025-11-19 05:06:41,,,active
+BSM6wuFWeV5pnf9sMMuDwg==,Ocean,CN → AU,2025-11-19 05:47:32,,,active
+6J1OFXdA9zQqnhT4erVgMQ==,Ocean,CN → AU,2025-11-19 06:02:38,,,active
+uKHEIXdWdk4sNpsCizB16w==,Air,CN → US,2025-11-04 13:14:36,,,active
+3ws7JGHt2VbUTGChVop5Xw==,Air,CN → GB,2025-11-07 16:51:13,,,active
+X3o8yh7LufD6o7sFmHdAtg==,Air,CN → GB,2025-11-07 16:51:13,,,active
+fTAGL1sU+roYAy6c69SMWw==,Air,CN → GB,2025-11-07 16:51:13,,,active
+Lw7tOC8+H0oFjhwFQlb8Sg==,Air,CN → NL,2025-11-07 16:54:20,,,active
+s0Rx/R0rJ/S4rvYWLUwWaw==,Air,CN → NL,2025-11-07 16:54:20,,,active
+bNzgSFv5b3rFjkLKGWYERw==,Air,GB → US,2025-11-11 17:45:53,,,active
+cfgnRmPzqOL3zE7RPva+zA==,Air,GB → HK,2025-11-11 17:48:09,,,active
+LY2rZJ9IQv6eXrUD/gJeXg==,Air,GB → US,2025-11-11 17:51:52,,,active
+xH21Xp4e+F/wCwVVABhrvw==,Air,CN → AU,2025-11-15 05:25:18,,,active
+fI+mbtgROKYbYj+u5Mwl+w==,Air,CN → GB,2025-11-20 16:44:47,,,active
+zZTj3YHZwZYfb9BeNibL2w==,Air,CN → GB,2025-11-20 16:44:47,,,active
+a5MW4OFD3AFDT3quOX6P0w==,Air,CN → US,2025-11-22 01:56:05,,,active
+82KsWLCKDDVyibQh8MAzUw==,Road,GB → UNKNOWN,2025-11-20 13:49:00,,,active
+rKsRbQA92tHgemOHsyXIpA==,Road,GB → UNKNOWN,2025-11-20 13:49:00,,,active
+t5tprNTEadloC4q6WI4gcA==,Road,GB → UNKNOWN,2025-11-20 13:49:00,,,active
+mEl+PPn5b1JAboXfv4AX3w==,Road,GB → UNKNOWN,2025-11-20 13:49:00,,,active
+qU7oFQROvPm4vjb2UiTbjg==,Road,NL → GB,2025-11-20 22:22:06,,,active
+2u7FL48GmyaiSllp1JHOcw==,Ocean,CN → GB,2025-11-12 05:23:39,,,active
+Tfp5G22faXdVgYdBPWLVog==,Ocean,CN → GB,2025-11-22 06:59:55,,,active
+1n0Rcm4Kjgh7z0x3c1xzrg==,Air,CN → GB,2025-11-08 10:45:11,2025-11-20 00:00:00,,active
+NciCfZOBKSRN6nOgA1YHWg==,Road,GB → DE,2025-11-14 12:06:31,2025-11-20 00:00:00,,active
+Nju0e8itN4x41Qw7Ookurg==,Road,CA → US,2025-11-15 15:18:20,2025-11-18 00:00:00,,active
+QBpfUfqvv2CxdMIvBznsvQ==,Road,US → US,2025-11-18 17:59:35,2025-11-19 00:00:00,,active
+hV/GkDpN8MWWmq4l7+zRWw==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+KOj8py3bGoBJMZEGd3XUNw==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+5V+iACgxjHuzRsZsPhmCuw==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+Gqh+wm8b4QeSQAqnlJdCvg==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+2eijGOjgihzvZXOt6zPR4A==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+yelAsMWcASDU5n03WKTymg==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+Fn2jeuoticFObXL93gM+gQ==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+NEqbZAJmYYuhHWOaPfLXhw==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+x1lSEDLcMiVEFNHYFm16CA==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+umKnVjQRsEIWAbgQAG8JsQ==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+7mtOxWvZ4ACKqH03yWTC5g==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+R+VO3BmhhtKn+2dk36RU5Q==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+cFd0BN0YtpRatNcJOzDULQ==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+sVz56+mNPHi26v74lM2D9w==,Road,GB → UNKNOWN,2025-11-20 17:19:35,2025-11-22 00:00:00,,active
+mz0jSFB6swvMeXl+QLlV2Q==,Road,GB → GB,2025-11-21 15:06:07,2025-11-22 00:00:00,,active
+pus0RQf++kwtfIvSrQcVsA==,Air,US → GB,2025-11-18 10:07:11,2025-11-19 00:00:00,,active
+ruJtAfIt1WUa6J48QyQGVw==,Road,PL → GB,2025-11-12 11:58:37,2025-11-20 00:00:00,,active
+bSEZYxV+jUk0zKoq4YTtVw==,Road,TR → GB,2025-11-13 11:25:15,2025-11-19 00:00:00,,active
+X295Tz0blruoxsD236Y4SA==,Ocean,US → GB,2025-11-08 10:25:19,2025-11-18 00:00:00,,active
+T/F0ue1sthywZWqaAm759g==,Road,TR → GB,2025-11-12 11:35:51,2025-11-20 00:00:00,,active
+TciCxcCf036jtRfWBR4sFg==,Air,US → GB,2025-11-18 16:13:35,2025-11-21 00:00:00,,active
+fl1f3sFIuSIUTIYuZ2uDrQ==,Road,GB → GB,2025-11-19 09:48:52,2025-11-20 00:00:00,,active
+yoSYsu0xAP2uZKZAofRNhg==,Rail,IT → GB,2025-11-07 11:46:14,2025-11-14 00:00:00,,active
+XaiG+HGn2zPmNt/aNuUxsA==,Road,DK → GB,2025-11-08 11:19:57,2025-11-15 00:00:00,,active
+Ht1b3ay+yIHd179pwPn8Cg==,Road,DK → GB,2025-11-08 11:19:57,2025-11-15 00:00:00,,active
+3UGPZ0+aUAaXCDX0QPABvQ==,Road,NL → GB,2025-11-12 16:33:50,2025-11-18 00:00:00,,active
+Ia38E5xbX/AYgmyD9IDilQ==,Road,TR → GB,2025-11-07 09:55:44,2025-11-19 00:00:00,,active
+SR1z+D46rkflFpj7nQYNkw==,Air,NL → ZA,2025-11-01 08:25:26,2025-11-18 00:00:00,,active
+iwm/uNrEPlrfsBmvH4hO2g==,Air,NL → ZA,2025-11-01 08:25:26,2025-11-18 00:00:00,,active
+whM9r0p1olp0lhPQYUUEnA==,Air,NL → AE,2025-11-11 15:28:12,2025-11-21 00:00:00,,active
+I5wXARbrjg0Y/atse8IKaA==,Road,GB → GB,2025-11-04 10:13:03,2025-11-05 00:00:00,,active
+qaz1704xGJWVHyz8Li9V6g==,Road,PT → GB,2025-11-07 15:43:07,2025-11-15 00:00:00,,active
+egiIJKfNW+V6RCPVQ0eHLg==,Road,IT → GB,2025-11-08 14:33:59,2025-11-13 00:00:00,,active
+ieCsFppBgOvbk7aqlcEKiQ==,Road,TR → GB,2025-11-15 16:04:17,2025-11-16 15:15:11,,active
+3zUbFYpuZSBSuCY+mnifWA==,Ocean,FR → US,2025-11-04 12:19:37,2025-11-20 00:00:00,,active
+w6z1+XKPbgz4GaqnC4llDQ==,Ocean,CH → US,2025-11-04 13:50:39,2025-11-08 00:00:00,,active
+xRStNRjNKDVzHCjIalpNqg==,Ocean,CH → US,2025-11-04 13:50:39,2025-11-08 00:00:00,,active
+y21p0igzspw6VrZN08sLOw==,Ocean,CH → US,2025-11-04 13:50:39,2025-11-08 00:00:00,,active
+3Z3R3YT434DXqz8PRaC8xw==,Ocean,CH → US,2025-11-04 13:50:39,2025-11-08 00:00:00,,active
+ae1Mgj/WHRZ6PXKiRDg6Sg==,Ocean,CH → US,2025-11-04 13:50:39,2025-11-08 00:00:00,,active
+WHnXHhqWjYLs6zMOteSgXw==,Ocean,GB → US,2025-11-08 12:12:33,2025-11-20 00:00:00,,active
+1DGc50hHCuiTU/DXGZipHw==,Air,CH → US,2025-11-08 14:19:10,2025-11-21 00:00:00,,active
+wruZftjfIVPzW/QDcvGX8A==,Air,CH → US,2025-11-08 14:19:10,2025-11-21 00:00:00,,active
+/ScBcqoSL70iQk7vMpw4fA==,Air,FR → US,2025-11-11 12:57:41,2025-11-13 00:00:00,,active
+clkMc1+9VjZKQf9XVowCaw==,Air,GB → US,2025-11-11 16:37:04,2025-11-20 00:00:00,,active
+bmUMcf1PkWnQSyN+Fp5cGw==,Ocean,FR → US,2025-11-14 07:43:13,2025-11-21 00:00:00,,active
+CdTUCoiaDC5eC4gJFFDqGw==,Ocean,FR → US,2025-11-14 07:43:13,2025-11-21 00:00:00,,active
+rEHJUSUjCwRZyZZo5QzXeA==,Ocean,CH → US,2025-11-14 08:49:45,2025-11-18 00:00:00,,active
+rbpdEduZqqOAJH51bGlgkg==,Ocean,CH → US,2025-11-14 08:49:45,2025-11-18 00:00:00,,active
+BfW41Lt68z4AnViJSE42+w==,Road,TR → GB,2025-11-05 12:37:42,2025-11-13 00:00:00,,active
+W3l7wD3sPLA2EPAo7GMvmQ==,Road,PT → GB,2025-11-12 14:24:51,2025-11-15 00:00:00,,active
+N1XH7JzXCJBNV6MBEm1I3A==,Road,PT → GB,2025-11-13 11:15:36,2025-11-15 00:00:00,,active
+868cdUbO/Ff3Uo3sElXXjg==,Road,PT → GB,2025-11-19 11:23:49,2025-11-22 00:00:00,,active
+pKEPmHb6PNujV03kvQGtGw==,Road,PL → GB,2025-11-08 09:14:35,2025-11-13 00:00:00,,active
+oWmllef/h744hrDaFLQAQA==,Road,NO → GB,2025-11-11 10:52:40,2025-11-18 00:00:00,,active
+7OV8CPgw6OLxmkqyfEj8tg==,Air,HK → GB,2025-11-12 09:22:53,2025-11-13 00:00:00,,active
+XeXf6NwH0bVpcVVbIojtAw==,Road,FR → GB,2025-11-12 15:41:40,2025-11-19 00:00:00,,active
+TzEXzKuRgPnQ26Aeh/Xarg==,Road,FR → GB,2025-11-12 15:41:40,2025-11-19 00:00:00,,active
+mvOQg1mf8TQUYfY/XOdVfw==,Road,FR → GB,2025-11-12 15:41:40,2025-11-19 00:00:00,,active
+o/t1cG3H9LZb19ST1iy6Dw==,Air,HK → GB,2025-11-13 22:34:12,2025-11-20 00:00:00,,active
+Ju7r64FcC42iE31XmtnNwQ==,Air,HK → GB,2025-11-13 22:34:12,2025-11-20 00:00:00,,active
+tBtqdChXzQ8G/Sxb7lgoNw==,Air,HK → GB,2025-11-13 22:34:12,2025-11-20 00:00:00,,active
+cqV+ojkS4KSqurW/JX7TIw==,Road,FR → GB,2025-11-14 10:52:37,2025-11-19 00:00:00,,active
+oYrELUE+gWrQBVvQmGt6GQ==,Road,FR → GB,2025-11-14 14:19:42,2025-11-18 00:00:00,,active
+OZBYWkGwa80cw+9n69vRAg==,Road,FR → GB,2025-11-14 14:22:08,2025-11-18 00:00:00,,active
+SK2VhFTOO1+o7YoqzqAAXQ==,Road,BE → GB,2025-11-15 09:54:24,2025-11-19 00:00:00,,active
+btAQ1jmumwq5zHVKjKdWjg==,Road,NL → GB,2025-11-15 10:41:15,2025-11-19 00:00:00,,active
+fpEHxRSj4Hb7p/oMLUBK8w==,Road,NL → GB,2025-11-15 10:41:15,2025-11-19 00:00:00,,active
+2tbwnnLpcb8PXPhxf9aXOA==,Road,NL → GB,2025-11-15 10:41:15,2025-11-19 00:00:00,,active
+58y+Kt6hSpuyc01y5mZekQ==,Road,NL → GB,2025-11-15 10:54:12,2025-11-20 00:00:00,,active
+yIALTC7/WZd1gIB+5FDRzw==,Air,US → GB,2025-11-15 18:52:13,2025-11-19 00:00:00,,active
+xCG2CRxmwvVn9Echlrihjg==,Air,US → GB,2025-11-15 18:52:13,2025-11-19 00:00:00,,active
+b76NxA9uKf0Gdf1E2tQMbQ==,Air,US → GB,2025-11-15 18:52:13,2025-11-19 00:00:00,,active
+239TBZtEhFOVFfS7pZgkNg==,Air,US → GB,2025-11-15 18:52:13,2025-11-19 00:00:00,,active
+yznEbRnntuFrXS9Ji/aOtw==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+yI6ZN+jaSBu2UfEqyn72IA==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+j0CWeziqyD2/zKf/bQc9ZA==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+S/F/Vb3WHf0gfuLNPz0czg==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+a6hK1fL4S878EavxcipJYQ==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+LpwlnmS6R7/iUNtXXvl1PQ==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+ZZHKtbd3hd9Mt5432rpk6A==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+vqcDCTLd8jH9IVHL1Ve0iw==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+27m0OzDdvmIgHTDSGVYrhg==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+XxfyUgyhym6WALqyUDdvFw==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+aXJCWKYJMqFXsMvVwEFHZA==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+35vkNPJ3GCJMqNAB6ANw2A==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+WnqP0hakeTmJKYiyxqh9pA==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+MGpizBIzCac0KssJrOZd7g==,Air,US → GB,2025-11-18 06:14:33,2025-11-18 00:00:00,,active
+UQPhtyuuKnw07lv7oRCdEQ==,Road,PL → GB,2025-11-18 08:11:35,2025-11-20 00:00:00,,active
+KtTyVBq10dY6Ddxfr5AXgw==,Road,FR → GB,2025-11-18 09:46:09,2025-11-20 00:00:00,,active
+77udFPDzkA+fTCWhJTQeCQ==,Road,FR → GB,2025-11-18 09:46:09,2025-11-20 00:00:00,,active
+dAgoAur+0hiNOMvL2S6xwg==,Road,FR → GB,2025-11-18 09:46:09,2025-11-20 00:00:00,,active
+RC4fW8ewE9Q8yNICbjh2KQ==,Road,FR → GB,2025-11-18 09:46:09,2025-11-20 00:00:00,,active
+GXNdjqlQyulRjPiJ1MFcVQ==,Road,FR → GB,2025-11-18 09:46:09,2025-11-20 00:00:00,,active
+fg/bDONB9pqEuNBF8DW/qA==,Road,FR → GB,2025-11-18 09:46:09,2025-11-20 00:00:00,,active
+#ERROR!,Air,HK → GB,2025-11-19 06:59:25,2025-11-21 00:00:00,,active
+x9zllfmjmcKsycDiLZ4goQ==,Road,IT → GB,2025-11-12 13:26:30,2025-11-15 00:00:00,,active
+FjzGdiVoXVuMk6S4qEal9A==,Air,NL → US,2025-11-13 15:03:12,2025-11-15 00:00:00,,active
+S+670bIWTM/Yx79rDwI9RQ==,Air,CA → SE,2025-11-13 19:47:57,2025-11-18 00:00:00,,active
+i77CHpX6aJAhy5yyERvKaw==,Road,NL → IT,2025-11-14 16:54:06,2025-11-19 00:00:00,,active
+KnSuHIs7LNVDiMxZzJiWqw==,Road,NL → DE,2025-11-14 16:55:44,2025-11-19 00:00:00,,active
+BimbMnj9KTX770p9nfCpyA==,Road,NL → PL,2025-11-15 10:36:18,2025-11-19 00:00:00,,active
+#ERROR!,Road,NL → PL,2025-11-15 10:42:28,2025-11-19 00:00:00,,active
+oWFuBgOrwowJFYToW/7IJg==,Road,NL → DE,2025-11-15 10:45:30,2025-11-19 00:00:00,,active
+G1OhpuVekOPSNEb8laDljA==,Road,NL → DE,2025-11-15 10:46:12,2025-11-19 00:00:00,,active
+ahzEVbz/HvGOxaaJ7WR9ew==,Road,NL → FR,2025-11-19 09:57:15,2025-11-19 00:00:00,,active
+8C/yRwZf8RzRLBOQyf5I9A==,Air,CA → DE,2025-11-19 16:26:31,2025-11-20 00:00:00,,active
+g114GScTNW+UxPp2kceC3Q==,Road,NL → PL,2025-11-19 17:03:37,2025-11-20 00:00:00,,active
+SLfupb7yroXHKwTzjGo5hw==,Road,NL → PL,2025-11-19 17:05:06,2025-11-20 00:00:00,,active
+iCXQpqWx+BoAS6Xi7SpG4A==,Road,NL → DE,2025-11-19 17:06:30,2025-11-20 00:00:00,,active
+3T61FJc/YpVqWosNCx5zIA==,Road,NL → DE,2025-11-19 17:07:26,2025-11-20 00:00:00,,active
+Llrxd6+1IcvknaF/RJIpsQ==,Road,GB → CH,2025-11-06 12:43:26,2025-11-11 00:00:00,,active
+U7/kBm+xSQOo0Jrv0CoZpg==,Ocean,US → GB,2025-11-07 14:02:09,2025-11-18 00:00:00,,active
+PGdCeXeeF+VUSQBM1fxLSw==,Ocean,US → GB,2025-11-07 14:02:09,2025-11-18 00:00:00,,active
+9HqyCP/UXM0MjeXXmJjPFQ==,Ocean,NL → UNKNOWN,2025-11-05 12:59:44,2025-11-19 00:00:00,,active
+cAa7VL41e0CdRWbEZnbhxw==,Ocean,NL → UNKNOWN,2025-11-05 12:59:44,2025-11-19 00:00:00,,active
+JDoiOTX7pPi325pszZY8SQ==,Ocean,NL → UNKNOWN,2025-11-06 13:12:27,2025-11-21 00:00:00,,active
+Nw1gweeBExbaVZjTszL/xw==,Ocean,NL → UNKNOWN,2025-11-06 13:12:27,2025-11-21 00:00:00,,active
+QrbYDCz2rAAKq0owI4fhFA==,Ocean,NL → UNKNOWN,2025-11-06 13:12:27,2025-11-21 00:00:00,,active
+RyzvPSbczDwWiPwAVvk2tg==,Ocean,NL → UNKNOWN,2025-11-06 13:12:27,2025-11-21 00:00:00,,active
+ETOprFqEYsH2PnRWclpT2Q==,Ocean,NL → UNKNOWN,2025-11-06 13:15:31,2025-11-20 00:00:00,,active
+MSm/AenGuPNU4MpRhSB9fA==,Ocean,NL → UNKNOWN,2025-11-06 13:15:31,2025-11-20 00:00:00,,active
+/1LxsOW5Y+TVTQXp1Itrfg==,Ocean,NL → UNKNOWN,2025-11-06 13:15:31,2025-11-20 00:00:00,,active
+IS2AyA4RoN0Q1V67GPEjEA==,Ocean,NL → UNKNOWN,2025-11-06 13:15:31,2025-11-20 00:00:00,,active
+LZOSWUOr0YFcXEanquRTIg==,Ocean,NL → UNKNOWN,2025-11-06 13:35:14,2025-11-21 00:00:00,,active
+qw7TaIyrlLd6UE8mY42L0g==,Ocean,NL → UNKNOWN,2025-11-06 13:35:14,2025-11-21 00:00:00,,active
+H//H3kt57WU/ktp8DRiCqQ==,Ocean,NL → UNKNOWN,2025-11-06 13:38:33,2025-11-22 00:00:00,,active
+cuTu1aVdw3r8tQkgCM/CrQ==,Ocean,NL → UNKNOWN,2025-11-06 13:38:33,2025-11-22 00:00:00,,active
+FIOyjeLBT0r3XKnBBqxsLQ==,Ocean,NL → UNKNOWN,2025-11-06 13:38:33,2025-11-22 00:00:00,,active
+IwAK4fVydYXD3r3QAi6BEQ==,Ocean,NL → UNKNOWN,2025-11-06 13:38:33,2025-11-22 00:00:00,,active
+DVZIa0lHpkBGr8cOSeWuOQ==,Ocean,NL → UNKNOWN,2025-11-06 13:48:31,2025-11-21 00:00:00,,active
+8MTruQeL0WVPxlAc39OBZA==,Ocean,NL → UNKNOWN,2025-11-06 13:50:46,2025-11-20 00:00:00,,active
+wrUq4bENVtZhh1ntUrzcpA==,Ocean,NL → UNKNOWN,2025-11-06 13:50:46,2025-11-20 00:00:00,,active
+q/OEjSlBOCE7gWg5vur5Lg==,Ocean,NL → UNKNOWN,2025-11-06 13:53:33,2025-11-22 00:00:00,,active
+t6sOmUavzNhlnrHo5glFsw==,Ocean,NL → UNKNOWN,2025-11-06 13:53:33,2025-11-22 00:00:00,,active
+mWe3FWcYj/dBwQVH1ONEhQ==,Ocean,NL → UNKNOWN,2025-11-06 13:53:33,2025-11-22 00:00:00,,active
+KEyw7h8gnOv6TGuIBPH4WA==,Ocean,NL → UNKNOWN,2025-11-06 13:53:33,2025-11-22 00:00:00,,active
+9buEHZF4RkSeDJU3Yuee6Q==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+yLUSNEgyG/uy4IF2SxBXSg==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+v5vkt9Uk7HPs03+dA7IxuA==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+9mTUvE2L000uh4cWS5eyrA==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+xP9wfdZ9E9xr+mSIemf1QQ==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+pNKYdKtZVP3695Dw+8eIAw==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+e4ZYv6COKSnEthoY8idFEw==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+aAjk4prZ/MTf4e/QCEzQow==,Ocean,NL → UNKNOWN,2025-11-06 14:05:57,2025-11-20 00:00:00,,active
+c1Q9mZpmePMbKz2tkM1IaA==,Ocean,NL → UNKNOWN,2025-11-06 14:08:21,2025-11-21 00:00:00,,active
+sZGT6Gz4VtQp+7xW/zjRjA==,Ocean,NL → UNKNOWN,2025-11-06 14:10:36,2025-11-22 00:00:00,,active
+1YcicmVsQlWtKrz2HOzQEg==,Ocean,NL → UNKNOWN,2025-11-06 14:12:56,2025-11-19 00:00:00,,active
+9H7ViexXTfTl4Wx/Mx3xFQ==,Ocean,NL → UNKNOWN,2025-11-06 14:15:13,2025-11-21 00:00:00,,active
+ms45Bd4K/S310XtuirCZQA==,Ocean,NL → UNKNOWN,2025-11-06 14:17:24,2025-11-21 00:00:00,,active
+Lz67n5z/IhZYQHmw5ceZWg==,Ocean,NL → UNKNOWN,2025-11-06 15:17:30,2025-11-22 00:00:00,,active
+wbNn5ffIXPEFhiz1p0oKcw==,Road,DE → FR,2025-11-08 14:39:36,2025-11-12 00:00:00,,active
+kHbQ7Jx8jnFZKVwVw7j/Uw==,Road,DE → FR,2025-11-08 14:39:36,2025-11-12 00:00:00,,active
+u9pX8rap8IUXbJFju2c2VQ==,Road,DE → FR,2025-11-08 14:39:36,2025-11-12 00:00:00,,active
+50CaBDohPPJL3QW9Og2SxA==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+f7zTNG0Kb34pqMMp6PrhuQ==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+1bDRBtquWNvzlhwdK78YnA==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+ulHARMccEaGfpVBiRIxSsg==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+JunAv02w6b1i9odl5KV/ug==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+uYkO3bWN7WmUzGis0kw6hw==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+CFNXOi5yO8pHz/xbKltYWw==,Road,DE → FR,2025-11-11 10:01:58,2025-11-13 00:00:00,,active
+EqNv7dugfAtqH+P7++gdug==,Road,DE → ES,2025-11-11 11:21:36,2025-11-13 00:00:00,,active
+#ERROR!,Road,DE → ES,2025-11-11 11:21:36,2025-11-13 00:00:00,,active
+kbN1YG4MrsnZDnN++DVAGA==,Road,DE → FR,2025-11-14 17:05:13,2025-11-18 00:00:00,,active
+m+6wKS2sYFTiRr8fmVM4aw==,Road,DE → FR,2025-11-14 17:05:13,2025-11-18 00:00:00,,active
+PBowmcZ0ft5UiQ8vMMBv5g==,Road,DE → FR,2025-11-14 17:05:13,2025-11-18 00:00:00,,active
+I3cdXbP1v4YreQhnCwhc9g==,Road,DE → ES,2025-11-15 07:11:47,2025-11-18 00:00:00,,active
+FozcTId9IaG3JX/vYPQfHA==,Road,DE → SE,2025-11-15 09:02:52,2025-11-18 00:00:00,,active
+UIgH4F9d2mw4mEw1kUCsNg==,Road,DE → SE,2025-11-15 09:02:52,2025-11-18 00:00:00,,active
+G2ngAi4QIgqhxFXg4N7Ngw==,Road,DE → SE,2025-11-15 09:02:52,2025-11-18 00:00:00,,active
+Py2i5QGzyZpAgnOvKQOfJA==,Road,DE → CH,2025-11-18 09:01:42,2025-11-19 00:00:00,,active
+NPpXsQxpeiRlUAq0ykKjwA==,Road,DE → CH,2025-11-18 09:01:42,2025-11-19 00:00:00,,active
+qdk+pcvWjQmYkcAQBjJdaw==,Road,DE → NO,2025-11-19 09:22:27,2025-11-20 00:00:00,,active
+Z/pVUInAQyShaBEqFQiiwA==,Road,DE → NO,2025-11-19 09:22:27,2025-11-20 00:00:00,,active
+IgZXiMnjkSCC3E3sDYm3Tw==,Road,DE → NO,2025-11-19 09:22:27,2025-11-20 00:00:00,,active
+v3rQbHP7pQ5fp8ESbCMUqw==,Road,DE → AT,2025-11-19 14:09:54,2025-11-21 00:00:00,,active
+W/gLNK9W1b19Kf8UDM4Wsg==,Road,DE → DE,2025-11-20 07:24:38,2025-11-21 00:00:00,,active
+DDguqo5Zz2ZGl/dZrD1F3w==,Road,DE → DE,2025-11-20 07:24:38,2025-11-21 00:00:00,,active
+J/l5mD5ZhcvY0xe/6E/TtQ==,Road,DE → DE,2025-11-20 07:24:38,2025-11-21 00:00:00,,active
+3OXfhAAqxGFto7RzQPuVEQ==,Road,DE → DE,2025-11-20 07:24:38,2025-11-21 00:00:00,,active
+ZWzoSe/2uN7v81U2Suln6Q==,Road,DE → NO,2025-11-20 16:43:49,2025-11-22 00:00:00,,active
+aFTtPTQ86Y5vAYAYbLl65A==,Road,DE → NO,2025-11-20 16:43:49,2025-11-22 00:00:00,,active
+r1nweoqH3FyFN/V85DVE+A==,Road,DE → NO,2025-11-20 16:43:49,2025-11-22 00:00:00,,active
+9ebVtO3dHtcHPQkyHjBHeQ==,Road,DE → NL,2025-11-21 09:29:53,2025-11-22 00:00:00,,active
+C0m4SdbbxjFg9n8qpNbgVw==,Road,DE → NL,2025-11-21 09:29:53,2025-11-22 00:00:00,,active
+vYnwn5D8mGn8RojGPARWsw==,Road,DE → NL,2025-11-21 11:28:16,2025-11-22 00:00:00,,active
+NCJ1EKx6p3kRaID9MxLVnQ==,Ocean,CN → NL,2025-11-12 08:26:40,2025-11-21 00:00:00,,active
+JqirCuHTysobi09Hi2J47w==,Air,NL → US,2025-11-12 15:44:04,2025-11-18 00:00:00,,active
+FscEwzCN8DOZ0mLd/SX+Yg==,Ocean,US → NL,2025-11-14 20:18:55,2025-11-20 00:00:00,,active
+RvwXStfw8rQDC80NUVN4wQ==,Air,CN → US,2025-11-18 03:53:55,2025-11-20 00:00:00,,active
+sPDv7Z9yq26kb8CQVmWC0w==,Air,US → GB,2025-11-09 14:34:50,2025-11-12 00:00:00,,active
+QDHfjoijo//83FaUjwb6pg==,Air,US → GB,2025-11-09 14:34:50,2025-11-12 00:00:00,,active
+9zPwmZ57mQtX3+JT7tuwWw==,Air,US → GB,2025-11-09 14:34:50,2025-11-12 00:00:00,,active
+INjMvIV5MF3ObgiWAl2cjw==,Air,US → GB,2025-11-09 14:34:50,2025-11-12 00:00:00,,active
+vc1IYjOt+zAT77288Dso/Q==,Air,US → GB,2025-11-14 19:38:05,2025-11-15 00:00:00,,active
+C0QsjTBL2s9dksIRsEuDmQ==,Air,US → GB,2025-11-15 17:22:51,2025-11-18 00:00:00,,active
+sDIDYGoguavimQlb5FxBDg==,Road,GB → GB,2025-11-18 11:58:37,2025-11-22 00:00:00,,active
+VGkK9OnyGNpLgzI5lkKzFQ==,Air,US → GB,2025-11-18 21:46:00,2025-11-18 00:00:00,,active
+YYqA7ZnhAjnPgeXzjkFflQ==,Air,US → UNKNOWN,2025-11-20 21:53:49,2025-11-21 00:00:00,,active
+v3x3C43YPcaHmPZNXktklg==,Air,CN → US,2025-11-07 17:29:13,2025-11-19 00:00:00,,active
+8eQI0O4by0dJixH9oLNHmg==,Road,US → US,2025-11-01 19:19:15,2025-11-04 00:00:00,,active
+IkbneEBtq17O9vVm/loLvw==,Road,ES → GB,2025-11-13 10:26:59,2025-11-19 00:00:00,,active
+N5XvYu6YwxQr7ykw+TAHWQ==,Road,ES → GB,2025-11-13 10:26:59,2025-11-19 00:00:00,,active
+#ERROR!,Road,ES → GB,2025-11-13 10:26:59,2025-11-19 00:00:00,,active
+VnieD8oIX5JiYQpU8ZkD+Q==,Road,GB → PL,2025-11-15 15:54:43,2025-11-19 14:38:17,,active
+JrNIvBO5MjcscxXWIK88XA==,Road,GB → PL,2025-11-18 10:33:01,2025-11-19 09:02:16,,active
+sCEjIRednVOxyQG4ELHzLw==,Road,GB → DE,2025-11-20 14:51:03,2025-11-22 12:12:59,,active
+PVhDCBCd++WvudbOhKGJdw==,Road,US → US,2025-11-20 16:30:38,2025-11-20 00:00:00,,active
+ccKCKT5FXD1abdYrdsG8DQ==,Road,US → US,2025-11-14 18:05:26,2025-11-15 00:00:00,,active
+uJ33trwm4toDUJCPJ/bDJw==,Road,US → US,2025-11-18 23:59:16,2025-11-19 00:00:00,,active
+sCPcuesKhq4UUdMi3Tc8pg==,Road,US → CA,2025-11-19 16:19:48,2025-11-21 00:00:00,,active
+ZswmRfG/fLX2Kwkpyy6Tzw==,Road,US → US,2025-11-21 16:13:06,2025-11-21 00:00:00,,active
+B6FmSZL3nxdVDFPAenR9kA==,Road,US → US,2025-11-21 16:37:03,2025-11-21 00:00:00,,active
+c7vxjFxFVjoWSfkC5XcKkQ==,Road,GB → IT,2025-11-21 08:54:52,2025-11-21 00:00:00,,active
+xxAvUM5fb8yWxKX54eOUDA==,Air,CN → GB,2025-11-12 07:43:29,2025-11-18 00:00:00,,active
+GdZAMRhBkH46pVoUwuM/Ng==,Air,CN → GB,2025-11-12 07:44:18,2025-11-15 00:00:00,,active
+e0hy9l5/A2djMMFPASHSoQ==,Air,CA → GB,2025-11-19 17:05:29,2025-11-20 00:00:00,,active
+/ncLMiR3Srpr6g2DV1RhHw==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+PpFWvZZFt4SXTTVC+vysyw==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+H/ibuyk4e1xoI8PRXTfo5w==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+odwuJLt2fyiaEh4ag2PPng==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+Y1eeESpsLlNI3xw5tLYSQw==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+#ERROR!,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+#ERROR!,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+vR3+UzAvHzWwoA/Q+bnGlw==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+M4+UMMAffkidu1WEfUao7w==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+uC4I+IxrS/FuitUwmOqaJw==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+Ri8E6xo7gGRTuoJfoNnMEw==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+YPKhbLJCZuL0nynhT8TrLQ==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+h79pz7yh+ePXHabycLDxSQ==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
+q4q6+gNkO0ukovvvLYaERQ==,Road,DE → FR,2025-11-18 07:17:11,2025-11-20 00:00:00,,active
