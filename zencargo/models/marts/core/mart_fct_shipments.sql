@@ -32,26 +32,23 @@ final as (
         vat_applicable,
         invoice_uploaded_at,
 
-        -- Actual lead time
         case
             when actual_collection_at is not null
              and actual_delivery_at is not null
             then date_diff('day', actual_collection_at, actual_delivery_at)
         end as actual_lead_time_days,
 
-        -- Estimated lead time
         case
             when estimated_collection_at is not null
              and estimated_delivery_at is not null
             then date_diff('day', estimated_collection_at, estimated_delivery_at)
         end as estimated_lead_time_days,
 
-        -- Variance
         case
-            when actual_collection_at is not null
-             and actual_delivery_at is not null
+            when actual_collection_at    is not null
+             and actual_delivery_at      is not null
              and estimated_collection_at is not null
-             and estimated_delivery_at is not null
+             and estimated_delivery_at   is not null
             then
                 date_diff('day', actual_collection_at, actual_delivery_at)
               - date_diff('day', estimated_collection_at, estimated_delivery_at)
